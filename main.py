@@ -10,3 +10,4 @@ etudiant["anglais"] = 16
 for cle, valeur in etudiant["notes"].items():
     print(f"La clé {cle} a pour valeur {valeur}")
 
+aaa
